@@ -34,7 +34,7 @@ public class Aritmetica {
     // ATRIBUTOS ESTÁTICOS
     // =========================================================
     
-    public static int cantidad = 0;
+    public static int cantidad;
     public static final double PI = 3.1416;
  
     // =========================================================
