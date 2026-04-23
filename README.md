@@ -450,7 +450,7 @@ public class Principal {
 
 ---
 
-*Realizado por **Miguel Silva C.** — UTN INSPT*
+*Realizado por **Miguel Silva C.**
 
 *GitHub: [github.com/darkwhiskers](https://github.com/darkwhiskers)*
 
