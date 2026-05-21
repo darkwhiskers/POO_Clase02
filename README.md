@@ -1,4 +1,4 @@
-# Clase 02: POO — Clases, Objetos y Encapsulamiento
+# POO - Clase 02: Clases, Objetos y Encapsulamiento
 
 Este repositorio contiene los ejemplos y ejercicios prácticos de la segunda sesión de Java,
 enfocada en los fundamentos de la **Programación Orientada a Objetos**: cómo modelar el mundo
